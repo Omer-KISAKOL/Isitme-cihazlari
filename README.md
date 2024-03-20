@@ -1,3 +1,3 @@
- Isitme cihazlari Website
+Isitme Cihazlari
 
-Isitme cihazlari URL: https://omer-kisakol.github.io/Isitme-cihazlari
+URL: https://withasya.github.io/isitme-cihazlari
