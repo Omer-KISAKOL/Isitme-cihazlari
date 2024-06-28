@@ -1,3 +1,3 @@
 Isitme Cihazlari
 
-URL: https://santeisitme.com
+URL: santeisitme.com
