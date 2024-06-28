@@ -1,3 +1,3 @@
 Isitme Cihazlari
 
-URL: [https://withasya.github.io/isitme-cihazlari](https://santeisitme.com/)
+URL: https://santeisitme.com
